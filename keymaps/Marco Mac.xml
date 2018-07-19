@@ -40,7 +40,6 @@
   <action id="GotoBookmark7" />
   <action id="QuickChangeScheme">
     <keyboard-shortcut first-keystroke="meta circumflex" />
-    <keyboard-shortcut first-keystroke="ctrl less" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
