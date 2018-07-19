@@ -1,0 +1,60 @@
+<keymap version="1" name="Marco Mac" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="ctrl alt 7" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="ctrl 7" />
+  </action>
+  <action id="DatabaseView.PropertiesAction" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta o" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="GotoBookmark7" />
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="meta circumflex" />
+    <keyboard-shortcut first-keystroke="ctrl less" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+</keymap>
