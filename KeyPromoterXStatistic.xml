@@ -54,7 +54,7 @@
           <IdeaActionID>Vcs.EditSource</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Edit Source</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Active Tool Window">
@@ -153,6 +153,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'LocationRepositoryTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'LocationRepositoryTest'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'PhpUnit'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -230,7 +238,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
     </option>
