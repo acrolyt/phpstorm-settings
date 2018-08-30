@@ -6,7 +6,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'⌃⇧A'</ShortCut>
           <Description>Annotate</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -143,6 +143,14 @@
           <ShortCut>'⇧⌘F10'</ShortCut>
           <Description>Jump to Console...</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move to Another Changelist...">
+        <Item>
+          <IdeaActionID>ChangesView.Move</IdeaActionID>
+          <ShortCut>'⇧⌘M'</ShortCut>
+          <Description>Move to Another Changelist...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
@@ -350,7 +358,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
     </option>
