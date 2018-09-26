@@ -1,0 +1,37 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/projects/igepa/api/data/src/app/Igepa/Services/CsvProductImport.php" timestamp="1537999607121">
+        <mark key="[" line="37" column="13" />
+        <mark key="]" line="37" column="13" />
+        <mark key="." line="37" column="13" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICgoJHRoaXMtPmZsYWdzWydlbnYnXSAhPSAicHJvZCIpKSB7Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IFRBQkxF</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgaWY=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IFRBQkxF</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
