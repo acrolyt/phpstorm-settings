@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6ff4b943-8dff-4c21-aaac-3f51040a2694" name="fx" url="http://fx.local:38080">
+        <fileTransfer host="localhost" port="3022" privateKey="$USER_HOME$/.ssh/id_rsa_insecure" rootFolder="/var/www/fx" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="3022" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
