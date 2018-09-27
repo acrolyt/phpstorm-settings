@@ -14,6 +14,14 @@
           <option name="url" value="http://git.machet-einfa.ch/acrolyt/upUpAndAway.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@git.machet-einfa.ch:26/acrolyt/php-katas.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:acrolyt/phpTemplate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
