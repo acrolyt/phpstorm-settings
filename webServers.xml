@@ -9,6 +9,14 @@
           <option name="port" value="3022" />
         </fileTransfer>
       </webServer>
+      <webServer id="ba0b6871-a4d6-42c3-8372-db0dd0ed9acc" name="kx" url="http://kx.local:28080">
+        <fileTransfer host="localhost" port="2022" privateKey="$USER_HOME$/.ssh/id_rsa_insecure" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2022" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
