@@ -14,7 +14,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'⌃⇧A'</ShortCut>
           <Description>Annotate</Description>
-          <Count>45</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -230,7 +230,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>28</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Switch Scheme...">
