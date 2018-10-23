@@ -14,5 +14,6 @@
     <mask>*.mxml</mask>
     <mask>*.php</mask>
     <mask>*.xml,*.yml</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
