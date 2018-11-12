@@ -38,7 +38,7 @@
           <IdeaActionID>CloseAllUnmodifiedEditors</IdeaActionID>
           <ShortCut>'⇧⌘W'</ShortCut>
           <Description>Close Unmodified</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
