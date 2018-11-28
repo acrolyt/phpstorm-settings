@@ -14,7 +14,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'⌃⇧A'</ShortCut>
           <Description>Annotate</Description>
-          <Count>69</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -38,7 +38,7 @@
           <IdeaActionID>CloseAllUnmodifiedEditors</IdeaActionID>
           <ShortCut>'⇧⌘W'</ShortCut>
           <Description>Close Unmodified</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>261</Count>
+          <Count>265</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
