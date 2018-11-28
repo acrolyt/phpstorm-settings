@@ -38,7 +38,7 @@
           <IdeaActionID>CloseAllUnmodifiedEditors</IdeaActionID>
           <ShortCut>'⇧⌘W'</ShortCut>
           <Description>Close Unmodified</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -54,7 +54,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -214,7 +214,7 @@
           <IdeaActionID>ChangesView.Move</IdeaActionID>
           <ShortCut>'⇧⌘M'</ShortCut>
           <Description>Move to Another Changelist...</Description>
-          <Count>8</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Scratch File">
@@ -335,6 +335,14 @@
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
           <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reword...">
+        <Item>
+          <IdeaActionID>Git.Reword.Commit</IdeaActionID>
+          <ShortCut>'F2' or '⇧F6'</ShortCut>
+          <Description>Reword...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -486,7 +494,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>157</Count>
+          <Count>159</Count>
         </Item>
       </Statistic>
     </option>
