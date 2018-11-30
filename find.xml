@@ -17,5 +17,6 @@
     <mask>*.twig</mask>
     <mask>*.feature</mask>
     <mask>*.yml</mask>
+    <mask>*.json</mask>
   </component>
 </application>
