@@ -86,7 +86,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'k1.local'">
@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>325</Count>
+          <Count>328</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -214,7 +214,7 @@
           <IdeaActionID>ChangesView.Move</IdeaActionID>
           <ShortCut>'⇧⌘M'</ShortCut>
           <Description>Move to Another Changelist...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Scratch File">
