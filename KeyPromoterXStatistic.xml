@@ -486,7 +486,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>262</Count>
+          <Count>266</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -494,7 +494,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>183</Count>
+          <Count>185</Count>
         </Item>
       </Statistic>
     </option>
