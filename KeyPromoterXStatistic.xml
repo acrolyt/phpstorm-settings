@@ -14,7 +14,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'⌃⇧A'</ShortCut>
           <Description>Annotate</Description>
-          <Count>111</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>409</Count>
+          <Count>410</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -270,6 +270,14 @@
           <IdeaActionID>QuickChangeScheme</IdeaActionID>
           <ShortCut>'⌘^'</ShortCut>
           <Description>Quick Switch Scheme...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recent Files">
+        <Item>
+          <IdeaActionID>RecentFiles</IdeaActionID>
+          <ShortCut>'⌘E'</ShortCut>
+          <Description>Recent Files</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
