@@ -2,8 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="console" type="PLAIN_TEXT" />
+      <mapping pattern="redis" type="PLAIN_TEXT" />
       <mapping pattern="diagnostics" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_php7" type="PLAIN_TEXT" />
+      <mapping pattern="psql" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="bootstrap2" type="PLAIN_TEXT" />
       <mapping pattern="server" type="PLAIN_TEXT" />
