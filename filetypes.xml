@@ -8,6 +8,7 @@
       <mapping pattern="pgadmin" type="PLAIN_TEXT" />
       <mapping pattern="shell" type="PLAIN_TEXT" />
       <mapping pattern="diagnostics" type="PLAIN_TEXT" />
+      <mapping pattern="docker-php-entrypoint" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_php7" type="PLAIN_TEXT" />
       <mapping pattern="artisan" type="PLAIN_TEXT" />
       <mapping pattern="psql" type="PLAIN_TEXT" />
