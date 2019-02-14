@@ -6,6 +6,7 @@
       <mapping pattern="redis" type="PLAIN_TEXT" />
       <mapping pattern="diagnostics" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_php7" type="PLAIN_TEXT" />
+      <mapping pattern="artisan" type="PLAIN_TEXT" />
       <mapping pattern="psql" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="bootstrap2" type="PLAIN_TEXT" />
