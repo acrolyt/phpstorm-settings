@@ -285,7 +285,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="f5bd9f0c-537f-40f9-adcc-29917569d30d" load_method="PHPUNIT_PHAR" custom_loader_path="/app/vendor/autoload.php" phpunit_phar_path="/app/vendor/bin/phpunit" />
+      <phpunit_by_interpreter interpreter_id="f5bd9f0c-537f-40f9-adcc-29917569d30d" load_method="CUSTOM_LOADER" custom_loader_path="/app/vendor/autoload.php" phpunit_phar_path="/app/vendor/bin/phpunit" />
     </phpunit_settings>
   </component>
 </application>
