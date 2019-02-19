@@ -15,11 +15,11 @@
       </driver-properties>
       <code-style-scheme-name>K1</code-style-scheme-name>
     </data-source>
-    <data-source source="LOCAL" name="@localhost" uuid="c1b18ad8-181d-4315-bbf0-7ab06c1886da">
-      <driver-ref>mysql</driver-ref>
+    <data-source source="LOCAL" name="MySQL - @mysql.local" uuid="c1b18ad8-181d-4315-bbf0-7ab06c1886da">
+      <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:13306</jdbc-url>
+      <jdbc-url>jdbc:mysql://mysql.local:13306</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
