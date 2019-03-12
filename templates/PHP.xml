@@ -18,7 +18,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="@test" value="/**&#10; * @test&#10; */&#10; public function $METHOD$()&#10; {&#10;    // $TEST$$END$&#10; }" description="phpunit test" toReformat="false" toShortenFQNames="true">
+  <template name="@test" value="/**&#10; * @test&#10; */&#10;public function $METHOD$()&#10;{&#10;&#9;// $TEST$$END$&#10;}" description="phpunit test" toReformat="false" toShortenFQNames="true">
     <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TEST" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
