@@ -38,7 +38,7 @@
           <IdeaActionID>CloseAllUnmodifiedEditors</IdeaActionID>
           <ShortCut>'⇧⌘W'</ShortCut>
           <Description>Close Unmodified</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>504</Count>
+          <Count>505</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
