@@ -142,7 +142,7 @@
           <IdeaActionID>Vcs.EditSource</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Edit Source</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -598,7 +598,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>243</Count>
+          <Count>244</Count>
         </Item>
       </Statistic>
     </option>
