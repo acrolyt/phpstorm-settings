@@ -505,6 +505,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SaveInvoiceDataCommandHandlerTest.itSavesTheInvoiceData'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'SaveInvoiceDataCommandHandlerTest.itSavesTheInvoiceData'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'TerminateConditionCo... (PHPUnit)'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
