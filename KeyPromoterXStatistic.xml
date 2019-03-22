@@ -425,6 +425,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'CreateInvoiceCommandHandlerTest.itSavesTheInvoiceData'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'CreateInvoiceCommandHandlerTest.itSavesTheInvoiceData'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FixedSapAccountingTransactionServiceTes…code_when_the_segment_is_manual_revision'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
