@@ -38,7 +38,7 @@
           <IdeaActionID>CloseAllUnmodifiedEditors</IdeaActionID>
           <ShortCut>'⇧⌘W'</ShortCut>
           <Description>Close Unmodified</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -630,7 +630,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>252</Count>
+          <Count>253</Count>
         </Item>
       </Statistic>
     </option>
