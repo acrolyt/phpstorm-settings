@@ -577,6 +577,14 @@
           <Count>17</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'show-price-for-produ... (Behat)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'show-price-for-produ... (Behat)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'show-product-with-al... (Behat)'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
