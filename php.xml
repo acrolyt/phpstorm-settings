@@ -10,14 +10,14 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/bin/php" id="09ba1c8d-51fa-4e01-8cb9-3acd093b93f6" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
-      <interpreter home="docker://dreadlabs/php-lib:7.0-dev/php" id="534ee830-31ee-4b7d-9857-6512b3e4eeeb" name="dreadlabs/php-lib:7.0-dev" debugger_id="php.debugger.XDebug">
+      <interpreter id="09ba1c8d-51fa-4e01-8cb9-3acd093b93f6" name="PHP 5.6" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="534ee830-31ee-4b7d-9857-6512b3e4eeeb" name="dreadlabs/php-lib:7.0-dev" home="docker://DATA" debugger_id="php.debugger.XDebug">
         <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="dreadlabs/php-lib:7.0-dev" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
-      <interpreter home="docker://laravel-boilerplate_app:latest/php" id="f5bd9f0c-537f-40f9-adcc-29917569d30d" name="acrolyt/php-lib:7.3" debugger_id="php.debugger.XDebug">
+      <interpreter id="f5bd9f0c-537f-40f9-adcc-29917569d30d" name="acrolyt/php-lib:7.3" home="docker://DATA" debugger_id="php.debugger.XDebug">
         <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="laravel-boilerplate_app:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
-      <interpreter home="/usr/bin/php" id="c6b35665-3b35-4b15-8df5-d185209d5a0f" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
+      <interpreter id="c6b35665-3b35-4b15-8df5-d185209d5a0f" name="PHP 7.1" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -282,10 +282,5 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="f5bd9f0c-537f-40f9-adcc-29917569d30d" load_method="CUSTOM_LOADER" custom_loader_path="/app/vendor/autoload.php" phpunit_phar_path="/app/vendor/bin/phpunit" />
-    </phpunit_settings>
   </component>
 </application>
