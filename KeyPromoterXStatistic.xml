@@ -577,6 +577,46 @@
           <Count>17</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'show-product-with-al... (Behat)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'show-product-with-al... (Behat)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'show-product-with-all-units.feature'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'show-product-with-all-units.feature'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'show-product-with-sp... (Behat)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'show-product-with-sp... (Behat)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'show-product-with-specific-unit.feature'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'show-product-with-specific-unit.feature'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'show-products-list.feature'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'show-products-list.feature'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show All Affected Files">
         <Item>
           <IdeaActionID>Vcs.Log.ShowAllAffected</IdeaActionID>
