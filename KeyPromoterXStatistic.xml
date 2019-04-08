@@ -14,7 +14,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'⌃⇧A'</ShortCut>
           <Description>Annotate</Description>
-          <Count>150</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -62,7 +62,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -702,7 +702,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>267</Count>
+          <Count>268</Count>
         </Item>
       </Statistic>
     </option>
