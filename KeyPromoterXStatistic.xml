@@ -481,6 +481,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'CsvReaderTest.it_reads_the_csv_and_returns_the_amount_of_letters_per_leitregion'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'CsvReaderTest.it_reads_the_csv_and_returns_the_amount_of_letters_per_leitregion'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FixedSapAccountingTransactionServiceTes…code_when_the_segment_is_manual_revision'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
