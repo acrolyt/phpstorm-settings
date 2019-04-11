@@ -1,11 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockerfile_php73" type="PLAIN_TEXT" />
-      <mapping pattern="redis" type="PLAIN_TEXT" />
+      <mapping pattern="pgadmin" type="PLAIN_TEXT" />
       <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
-      <mapping pattern="pgadmin" type="PLAIN_TEXT" />
+      <mapping pattern="redis" type="PLAIN_TEXT" />
       <mapping pattern="shell" type="PLAIN_TEXT" />
       <mapping pattern="diagnostics" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-entrypoint" type="PLAIN_TEXT" />
@@ -15,9 +14,11 @@
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="bootstrap2" type="PLAIN_TEXT" />
       <mapping pattern="server" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_php73" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="kx" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="TSV" />
     </extensionMap>
   </component>
 </application>
