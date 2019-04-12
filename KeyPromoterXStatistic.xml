@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>608</Count>
+          <Count>611</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -438,7 +438,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application (PHPUnit)'">
@@ -494,7 +494,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'CsvReaderTest.it_reads_the_csv_and_returns_the_amount_of_letters_per_leitregion'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FixedSapAccountingTransactionServiceTes…code_when_the_segment_is_manual_revision'">
@@ -710,7 +710,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>447</Count>
+          <Count>448</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
