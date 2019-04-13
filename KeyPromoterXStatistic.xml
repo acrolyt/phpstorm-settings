@@ -577,6 +577,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Unit (PHPUnit)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Unit (PHPUnit)'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'features (PHPUnit)'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -607,6 +615,22 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'show-price-for-product-and-unit.feature'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'show-products-list.f... (Behat)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'show-products-list.f... (Behat)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'show-products-list.feature'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'show-products-list.feature'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -694,7 +718,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>427</Count>
+          <Count>429</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
