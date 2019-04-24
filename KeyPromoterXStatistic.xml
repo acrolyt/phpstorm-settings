@@ -161,6 +161,14 @@
           <Count>28</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Emoji &amp; Symbols">
+        <Item>
+          <IdeaActionID>EmojiAndSymbols</IdeaActionID>
+          <ShortCut>'⌃⌘Space'</ShortCut>
+          <Description>Emoji &amp; Symbols</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Execute">
         <Item>
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
@@ -513,6 +521,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'FrankingContract (Behat)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'FrankingContract (Behat)'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FrankingContract (PHPUnit)'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -623,6 +639,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'k1.local'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'show-postage-hedge.f... (Behat)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'show-postage-hedge.f... (Behat)'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
