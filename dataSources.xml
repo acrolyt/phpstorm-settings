@@ -1,9 +1,9 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="K1 [test]" uuid="a00482d7-8153-4e18-adba-ea4a11892018">
-      <driver-ref>mysql</driver-ref>
+      <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://dvlk1.postcon.intern:3307/postcon_current</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
