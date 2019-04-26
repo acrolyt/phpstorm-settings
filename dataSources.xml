@@ -13,13 +13,12 @@
         <property name="characterSetResults" value="utf8" />
         <property name="yearIsDateType" value="false" />
       </driver-properties>
-      <code-style-scheme-name>K1</code-style-scheme-name>
     </data-source>
-    <data-source source="LOCAL" name="MySQL - @mysql.local" uuid="c1b18ad8-181d-4315-bbf0-7ab06c1886da">
-      <driver-ref>mysql.8</driver-ref>
+    <data-source source="LOCAL" name="Kx [local]" uuid="15b9200a-b152-4926-9f97-fcaba47a7b70">
+      <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://mysql.local:13306</jdbc-url>
+      <jdbc-url>jdbc:mysql://mysql.kx.local:13306/kx</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
@@ -29,11 +28,11 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="fx [local]" uuid="5071aa2b-7fc0-4395-97a2-a011dd16b5ca">
+    <data-source source="LOCAL" name="@localhost" uuid="c1b18ad8-181d-4315-bbf0-7ab06c1886da">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:33306/fxdb</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:13306</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
