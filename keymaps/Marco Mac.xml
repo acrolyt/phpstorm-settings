@@ -37,6 +37,9 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift meta #10000b4" />
+  </action>
   <action id="GotoBookmark7" />
   <action id="QuickChangeScheme">
     <keyboard-shortcut first-keystroke="meta circumflex" />
