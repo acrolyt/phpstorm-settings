@@ -1,12 +1,23 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" />
-    <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId=".ignore plugin" />
+    <notification groupId=".ignore plugin update information" />
+    <notification groupId="Automatic indent detection" />
+    <notification groupId="Code style settings migration" />
+    <notification groupId="Dependencies from package.json" shouldLog="false" />
+    <notification groupId="External Executable Critical Failures" />
+    <notification groupId="Find in Path" shouldLog="false" />
+    <notification groupId="Find Problems" shouldLog="false" />
     <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
-    <notification groupId="Git Minor Notifications" />
-    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="System Messages" />
-    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" />
-    <notification groupId="Vcs Minor Notifications" />
+    <notification groupId="IDE and Plugin Updates" />
+    <notification groupId="IDE Usage Statistics" shouldLog="false" />
+    <notification groupId="JBA Cloud Config" />
+    <notification groupId="Markdown Navigator Alerts" />
+    <notification groupId="Markdown Navigator License" />
+    <notification groupId="Markdown Navigator Update" />
+    <notification groupId="Plugins Suggestion" />
+    <notification groupId="Plugins updates" shouldLog="false" />
+    <notification groupId="System Health" />
+    <notification groupId="Vcs Important Messages" />
   </component>
 </application>
